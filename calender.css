@@ -1,0 +1,176 @@
+.contaner{
+    background-color: rgb(1, 1, 14);
+    height: 675px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.cart_maine{
+    background-color: rgb(13, 6, 31);
+    height: 390px;
+    width: 220px;
+    margin-top: 110px;
+    border-radius: 10px;
+}
+
+.babaychart{
+    background-color: rgb(44, 25, 97);
+    height: 290px;
+    width: 220px;
+    border-radius: 10px;
+}
+.innercircle{
+    position: absolute;
+    background-image: url("/image/totaldramapfp.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border: 3px solid white;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin: 20px;
+}
+.head{
+    padding-left: 30px;
+    font-size: 14px;
+    color: #fff;
+}
+.profile{
+    text-align: start;
+    padding-top: 100px;
+    padding-left: 15px;
+    padding-right: 2px;
+    font-size: 15px;
+    color: #fff; 
+}
+.name{
+    padding-top: 1px;
+    text-align: start;
+    padding-left: 15px;
+    padding-right: 2px;
+    font-size: xx-large;
+    color: #fff;
+    
+}
+.items{
+    padding-top: 40px;
+    height: 0px;
+    font-size: 12px;
+    padding-left: 15px;
+    font-size: 12px;
+    color: rgb(128, 99, 202);
+}
+.day{
+    padding-top: 25px;
+    color: #fff;
+}
+.month{
+    padding-top: 25px;
+}
+.griduse{
+    display: grid;
+    grid-template-columns: 180px 180px 180px;
+    padding-top:111px;
+    padding-left: 15px;
+    height: 199px;
+    grid-template-rows: 185px 185px;
+    gap: 15px ; 
+    
+
+}
+.cart{
+    background-color: rgb(66, 209, 53);
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.innercart{
+    background-color: rgb(30, 13, 73);
+    margin-top: 32px;
+    border: 1px solid black;
+    font-size: 30px;
+    text-align: center;
+    width: 177px;
+    height: 150px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #fff;
+    
+}
+.game{
+    background-image: url("/image/playstation.png");
+    background-size: contain;
+    background-position-x: right;
+    background-repeat: no-repeat;
+    background-color: aqua;
+    height: 60px;
+}
+.bag{
+    background-image: url("/image/portfolio.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    height: 60px;
+    background-color: rgb(223, 144, 92);
+    
+}
+.book{
+    background-image: url("/image/open-book.png");
+    background-size: contain;
+    background-position-x: right;
+    background-repeat: no-repeat;
+    height: 50px;
+    background-color: rgb(240, 107, 129);
+}
+.running{
+    background-image: url("/image/running.png");
+    background-size: contain;
+    background-position-x: right;
+    background-repeat: no-repeat;
+    height: 50px;
+    background-color: rgb(121, 236, 117); 
+}
+.massage{
+    background-image: url("/image/text-box.png");
+    background-size: contain;
+    background-position-x: right;
+    background-repeat: no-repeat;
+    height: 50px;
+    background-color: rgb(105, 59, 223);
+}
+.care{
+    background-image: url("/image/health-care.png");
+    background-size: contain;
+    background-position-x: right;
+    background-repeat: no-repeat;
+    height: 50px;
+    background-color: rgb(238, 201, 36);
+}
+.work{
+    padding-top: 15px;
+    padding-right: 109px;
+    font-size: 15px;
+}
+.fa-solid{
+    position: absolute;
+    margin-left: 90px;
+}
+.hrs{
+    font-size: 45px;
+    padding-top: 20px;
+    padding-right: 40px;
+}
+.lastweek{
+   font-size: 12px;
+   padding-right: 50px; 
+}
+.hrsm{
+    font-size: 45px;
+    padding-top: 20px;
+    padding-right: 60px;
+}
+
+.work{
+    padding-top: 15px;
+    padding-right: 109px;
+    font-size: 15px;
+}
